@@ -1,9 +1,8 @@
 # ⚙️ Jay Soni – DevOps Enthusiast  
 
-**"Engineering is the art of directing the great sources of power in nature for the use and convenience of man."**  
-— Sir M. Visvesvaraya  
 
-Welcome to **VisvesvarayaOps**, a **DevOps Engineering** repository driven by automation, scalability, and continuous integration. Inspired by **Sir M. Visvesvaraya**, this repo focuses on **cloud infrastructure, CI/CD pipelines, containerization, and monitoring solutions**.  
+
+ a **DevOps Engineering** repository driven by automation, scalability, and continuous integration.  this repo focuses on **cloud infrastructure, CI/CD pipelines, containerization, and monitoring solutions**.  
 
 My mission is to **contribute to open-source** and engage in **major projects that drive innovation** in software delivery and infrastructure automation.
 
